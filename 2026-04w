@@ -1,2 +1,3 @@
 {"lat": 8.8, "lng": 154.1, "speed": 45, "pressure": 1002, "time": "04月08日17時", "type": "past"},
-{"lat": 9.2, "lng": 153.2, "speed": 45, "pressure": 1002, "time": "04月08日20時", "type": "current"},
+{"lat": 9.2, "lng": 153.2, "speed": 45, "pressure": 1002, "time": "04月08日20時", "type": "past"},
+{"lat": 9.2, "lng": 153.3, "speed": 45, "pressure": 1002, "time": "04月08日23時", "type": "current"},
