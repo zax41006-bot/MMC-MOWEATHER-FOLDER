@@ -23,4 +23,4 @@
 {"lat": 8.6, "lng": 151.5, "speed": 120, "pressure": 975, "time": "04月11日11時", "type": "past"},
 {"lat": 8.7, "lng": 151.4, "speed": 130, "pressure": 970, "time": "04月11日14時", "type": "past"},
 {"lat": 8.8, "lng": 151.3, "speed": 130, "pressure": 970, "time": "04月11日17時", "type": "past"},
-{"lat": 9.9, "lng": 151.3, "speed": 130, "pressure": 970, "time": "04月11日20時", "type": "current"},
+{"lat": 8.9, "lng": 151.3, "speed": 130, "pressure": 970, "time": "04月11日20時", "type": "current"},
