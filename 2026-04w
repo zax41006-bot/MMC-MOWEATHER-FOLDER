@@ -32,4 +32,7 @@
 {"lat": 10.3, "lng": 150.7, "speed": 240, "pressure": 905, "time": "04月12日14時", "type": "past"},
 {"lat": 10.5, "lng": 150.5, "speed": 240, "pressure": 905, "time": "04月12日17時", "type": "past"},
 {"lat": 11.0, "lng": 150.3, "speed": 260, "pressure": 902, "time": "04月12日20時", "type": "past"},
-{"lat": 11.3, "lng": 149.8, "speed": 260, "pressure": 902, "time": "04月12日23時", "type": "current"},
+{"lat": 11.3, "lng": 149.8, "speed": 260, "pressure": 902, "time": "04月12日23時", "type": "past"},
+{"lat": 11.6, "lng": 149.4, "speed": 280, "pressure": 900, "time": "04月13日02時", "type": "past"},
+{"lat": 11.9, "lng": 149.2, "speed": 280, "pressure": 900, "time": "04月13日05時", "type": "past"},
+{"lat": 12.1, "lng": 148.9, "speed": 280, "pressure": 900, "time": "04月13日08時", "type": "current"},
